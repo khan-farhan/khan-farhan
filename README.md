@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=32&duration=4500&pause=200&color=D9BED1&center=true&vCenter=true&width=600&lines=Hi%2C%20I%E2%80%99m%20Farhan%20Khan%20%F0%9F%91%8B" alt="Typing intro"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=32&duration=4500&pause=200&color=D9BED1&center=true&vCenter=true&width=600&lines=Hi%2C%20I%E2%80%99m%20Farhan%20Khan" alt="Typing intro"/>
   </a>
 </div>
 
@@ -28,31 +28,27 @@ My work sits at the intersection of ML model development, MLOps, and ML platform
   <img width="700" height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khan-farhan&theme=github_dark" alt="Profile Details"/>
 </div>
 
-<!--
-<h3>🔥 Streak Stats</h3>
+
+<!-- Streak Stats
 
 <div align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Farhan's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=khan-farhan&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
+    <img title="🔥 Streak stats for profile at git.io/streak-stats" alt="Farhan's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=khan-farhan&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
   </a>
   <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
 </div>
 -->
 
+<!-- Top Languages Card
 <div align="center">
-  <!-- Top Languages Card -->
-  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khan-farhan&layout=compact&langs_count=8&theme=github_dark" alt="Top Languages"/> -->
-
-  <!-- Alternative: Profile Summary Cards for Languages -->
-  <!-- Uncomment below if the above doesn't work -->
-  <!-- <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khan-farhan&theme=github_dark" alt="Languages"/> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khan-farhan&layout=compact&langs_count=8&theme=github_dark" alt="Top Languages"/>
 </div>
+-->
 
 ## 📊 GitHub Activity
 
 <div align="center">
   <!-- Activity Graph - Shows daily contributions -->
-  <!-- To change to weekly/monthly, see configuration options below -->
   <img width="1000" height="250" src="https://github-readme-activity-graph.vercel.app/graph?username=khan-farhan&theme=github-compact&hide_border=true&area=true" alt="GitHub Activity Graph"/>
 </div>
 
