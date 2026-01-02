@@ -12,7 +12,7 @@ My work sits at the intersection of ML model development, MLOps, and ML platform
 ## ⚡️ GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khan-farhan&theme=github_dark" alt="Profile Details"/>
+  <img width="700" height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khan-farhan&theme=github_dark" alt="Profile Details"/>
 </div>
 
 <!--
@@ -40,7 +40,7 @@ My work sits at the intersection of ML model development, MLOps, and ML platform
 <div align="center">
   <!-- Activity Graph - Shows daily contributions -->
   <!-- To change to weekly/monthly, see configuration options below -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khan-farhan&theme=github-compact&hide_border=true&area=true"/>
+  <img width="1000" height="250" src="https://github-readme-activity-graph.vercel.app/graph?username=khan-farhan&theme=github-compact&hide_border=true&area=true" alt="GitHub Activity Graph"/>
 </div>
 
 ## 🔗 Connect with Me
