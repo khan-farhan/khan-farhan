@@ -1,26 +1,8 @@
 # Hi there, I'm Farhan Khan! 👋
 
-<!--
-**khan-farhan/khan-farhan** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-- 🔭 I'm currently working on ...
-- 🌱 I'm currently learning ...
-- 👯 I'm looking to collaborate on ...
-- 🤔 I'm looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ## 👨‍💻 About Me
-
-- 🔭 I'm currently working on exciting projects
-- 🌱 I'm continuously learning and growing
-- 💬 Ask me about anything tech-related
-- 📫 How to reach me: [Add your contact info]
-- ⚡ Fun fact: I love coding and solving problems!
+I’m a Senior Machine Learning Engineer with 8+ years of experience building and operating ML systems at scale.
+My work sits at the intersection of ML model development, MLOps, and ML platform engineering, with a strong focus on reliability, cost efficiency, and real business impact.
 
 ## 🛠️ Tech Stack
 
@@ -31,17 +13,11 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-  <!-- Try Option 1: Standard GitHub Readme Stats -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=khan-farhan&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-
-  <!-- Try Option 2: GitHub Profile Summary Cards (Alternative) -->
-  <!-- Uncomment below if Option 1 doesn't work -->
-  <!-- <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khan-farhan&theme=github_dark" alt="Profile Details"/> -->
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khan-farhan&theme=github_dark" alt="Profile Details"/> -->
 
 </div>
 
 <div align="center">
-
   <!-- GitHub Streak Stats -->
   <img height="180em" src="https://streak-stats.demolab.com/?user=khan-farhan&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
 
@@ -49,8 +25,8 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-  <!-- Top Languages Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khan-farhan&layout=compact&langs_count=8&theme=github_dark" alt="Top Languages"/>
+  <!-- Top Languages Card
+  <!-- img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khan-farhan&layout=compact&langs_count=8&theme=github_dark" alt="Top Languages"/> -->
 
   <!-- Alternative: Profile Summary Cards for Languages -->
   <!-- Uncomment below if the above doesn't work -->
@@ -70,19 +46,10 @@ Here are some ideas to get you started:
 
 ## 🔗 Connect with Me
 
-<!-- Add your social links here -->
-<!--
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-url)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](your-portfolio-url)
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khan-farhan/)
 
 ---
 
 <div align="center">
-
   ![Profile Views](https://komarev.com/ghpvc/?username=khan-farhan&color=blueviolet&style=flat-square)
-
-  ⭐️ From [khan-farhan](https://github.com/khan-farhan)
-
 </div>
