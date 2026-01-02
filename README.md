@@ -2,17 +2,13 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hi%20there!%2C%20it's%20Farhan%20Khan" alt="Typing intro"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hi%20there!%2C%20;it's%20Farhan%20Khan" alt="Typing intro"/>
   </a>
 </div>
 
 ## 👨‍💻 About Me
-<div align="center">
-  <p>
-    I’m a Senior Machine Learning Engineer with 8+ years of experience building and operating ML systems at scale.<br />
-    My work sits at the intersection of ML model development, MLOps, and ML platform engineering, with a strong focus on reliability, cost efficiency, and real business impact.
-  </p>
-</div>
+I’m a Senior Machine Learning Engineer with 8+ years of experience building and operating ML systems at scale.
+My work sits at the intersection of ML model development, MLOps, and ML platform engineering, with a strong focus on reliability, cost efficiency, and real business impact.
 
 ## 🛠️ Tech Stack
 
@@ -76,3 +72,5 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=khan-farhan&color=blueviolet&style=flat-square" alt="Profile Views"/>
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
