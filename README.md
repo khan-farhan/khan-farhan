@@ -15,9 +15,15 @@ My work sits at the intersection of ML model development, MLOps, and ML platform
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khan-farhan&theme=github_dark" alt="Profile Details"/>
 </div>
 
+<h3>🔥 Streak Stats</h3>
+
 <div align="center">
-  <!-- GitHub Streak Stats -->
-  <img height="180em" src="https://streak-stats.demolab.com/?user=khan-farhan&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Farhan's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=khan-farhan&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
+  </a>
+  <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
 </div>
 
 <div align="center">
