@@ -15,7 +15,7 @@ My work sits at the intersection of ML model development, MLOps, and ML platform
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khan-farhan&theme=github_dark" alt="Profile Details"/>
 </div>
 
-<h3>🔥 Streak Stats</h3>
+<!-- <h3>🔥 Streak Stats</h3>
 
 <div align="center">
   <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
