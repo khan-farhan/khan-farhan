@@ -1,13 +1,24 @@
 # Hi there, I'm Farhan Khan! 👋
 
 ## 👨‍💻 About Me
-I’m a Senior Machine Learning Engineer with 8+ years of experience building and operating ML systems at scale.
-My work sits at the intersection of ML model development, MLOps, and ML platform engineering, with a strong focus on reliability, cost efficiency, and real business impact.
+<div align="center">
+  <p>
+    I’m a Senior Machine Learning Engineer with 8+ years of experience building and operating ML systems at scale.<br />
+    My work sits at the intersection of ML model development, MLOps, and ML platform engineering, with a strong focus on reliability, cost efficiency, and real business impact.
+  </p>
+</div>
 
 ## 🛠️ Tech Stack
 
-<!-- Add your tech stack badges here using shields.io or simple-icons -->
-<!-- Example: ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) -->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,aws,kubernetes,docker,rayserve,terraform,git" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,fastapi,postgres,mysql" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=grafana,prometheus" />
+</div>
+
+<hr>
 
 ## ⚡️ GitHub Stats
 
@@ -45,7 +56,14 @@ My work sits at the intersection of ML model development, MLOps, and ML platform
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khan-farhan/)
+<div align="center">
+  <a href="https://www.linkedin.com/in/khan-farhan/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:farhan.khan.0039@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</div>
 
 ---
 
